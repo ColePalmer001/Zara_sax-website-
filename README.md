@@ -14,3 +14,5 @@ You can view the website by opening the `index.html` file in your browser.
 
 If it's hosted on GitHub Pages, visit:-
 https://colepalmer001.github.io/Zara_sax-website-/
+> "Zara Official Website is a simple and elegant platform built for a talented saxophonist. It features a homepage, contact section, and links to social media."
+
